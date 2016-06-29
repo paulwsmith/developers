@@ -11,6 +11,7 @@ authDomain: "https://auth.zenginehq.com"
 supportDomain: "http://support.zenginehq.com"
 developerDomain: https://github.com/ZengineHQ/developers
 angularDomain: "https://code.angularjs.org"
+marketingDomain: "http://www.zenginehq.com"
 communityUrl: "https://groups.google.com/forum/#!forum/zengine-development/"
 demoClientId: "rest-api-quick-start-demo"
 rootDomain: zenginehq.com
